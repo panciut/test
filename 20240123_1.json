@@ -1,4 +1,4 @@
-{
+[{
     "data": "23 Gennaio 2024",
     "durata": 450, 
     "distanza": 12.4,
@@ -9,4 +9,16 @@
         "latitudine":"3723.2475",
         "altitudine":12
     }]
-}
+},
+{
+    "data": "24 Gennaio 2024",
+    "durata": 450, 
+    "distanza": 12.4,
+    "velocità": 12.0,
+    "dislivello": 24.0,
+    "posizioni": [{
+        "longitudine":"12158.3416",
+        "latitudine":"3723.2475",
+        "altitudine":12
+    }]
+}]
